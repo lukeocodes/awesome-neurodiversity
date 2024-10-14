@@ -6,7 +6,7 @@ My attempt to list pro neurodiversity companies, communities and charities. Comp
 
 ## Contents
 
-- [ND-Friendly Companies](#ndfriendly-companies)
+- [ND-Friendly Companies](#nd-friendly-companies)
 
 ## ND-Friendly Companies
 
