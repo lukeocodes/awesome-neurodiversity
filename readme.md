@@ -6,11 +6,30 @@ My attempt to list pro neurodiversity companies, communities and charities. Comp
 
 ## Contents
 
-- [ND-Friendly Companies](#nd-friendly-companies)
+- [Resources](#resources)
+- [Companies](#companies)
+- [Communities](#communities)
 
-## ND-Friendly Companies
+## Resources
 
-- tbc
+- [ADDitude Magazine](https://www.additudemag.com)
+- [Focus Magazine](https://focusmag.uk)
+
+## Companies
+
+Anecdotal list of companies, signed by employees that have witnessed them being neurodiverse-friendly.
+
+- [Deepgram](https://deepgram.com) - [@lukeocodes](https://github.com/lukeocodes)
+- [Auth0](https://auth0.com) - [@lukeocodes](https://github.com/lukeocodes)
+- 
+
+## Communities
+
+List of ND focussed and friendly communities
+
+- [Neurodiverse Squad](https://x.com/i/communities/1512494077757075460) on X
+- [TheClaw](https://discord.com/invite/theclaw) by [@whitep4nth3r](https://github.com/whitep4nth3r)
+- [rendezvous with cassidoo](https://discord.gg/rwc) by [Cassidy Williams](https://cassidoo.co)
 
 ## Related
 
