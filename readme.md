@@ -14,6 +14,15 @@ My attempt to list pro neurodiversity companies, communities and charities. Comp
 
 - [ADDitude Magazine](https://www.additudemag.com)
 - [Focus Magazine](https://focusmag.uk)
+- [Find Your Spark - 1:1 and Group coaching](http://findyourspark.co.uk)
+- [CHADD](https://chadd.org/get-attention-magazine/)
+- [Flow Club - Coworking for Neurodiverse peeps](https://www.flow.club)
+- [Diverse Minds Magazine](https://www.diversemindsmag.com)
+
+## Podcasts
+
+- [ADHD-Chatter](https://open.spotify.com/show/371UdLohffgSlWAEuQ55Hi)
+- [The Neurodiversity Podcast](https://open.spotify.com/show/1xFFc8DIbu9MNXyIkx7kki)
 
 ## Companies
 
