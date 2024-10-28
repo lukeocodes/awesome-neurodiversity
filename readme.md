@@ -7,17 +7,21 @@ My attempt to list pro neurodiversity companies, communities and charities. Comp
 ## Contents
 
 - [Resources](#resources)
+- [Podcasts](#podcasts)
 - [Companies](#companies)
+- [Charities](#charities)
 - [Communities](#communities)
 
 ## Resources
 
 - [ADDitude Magazine](https://www.additudemag.com)
-- [Focus Magazine](https://focusmag.uk)
-- [Find Your Spark - 1:1 and Group coaching](http://findyourspark.co.uk)
-- [CHADD](https://chadd.org/get-attention-magazine/)
-- [Flow Club - Coworking for Neurodiverse peeps](https://www.flow.club)
+- [CHADD Magazine](https://chadd.org/get-attention-magazine/)
 - [Diverse Minds Magazine](https://www.diversemindsmag.com)
+- [Find Your Spark - 1:1 and Group coaching](http://findyourspark.co.uk)
+- [Flow Club - Coworking for Neurodiverse peeps](https://www.flow.club)
+- [Focus Magazine](https://focusmag.uk)
+- [Very Well](https://www.verywellmind.com/)
+- 
 
 ## Podcasts
 
@@ -28,17 +32,27 @@ My attempt to list pro neurodiversity companies, communities and charities. Comp
 
 Anecdotal list of companies, signed by employees that have witnessed them being neurodiverse-friendly.
 
-- [Deepgram](https://deepgram.com) - [@lukeocodes](https://github.com/lukeocodes)
 - [Auth0](https://auth0.com) - [@lukeocodes](https://github.com/lukeocodes)
+- [Deepgram](https://deepgram.com) - [@lukeocodes](https://github.com/lukeocodes)
 - 
+
+## Charities
+
+- [ADHD Foundation](https://www.adhdfoundation.org.uk)
+- [Adult ADHD UK](https://www.adhdadult.uk)
+- [CHADD](https://chadd.org/)
+- [Mind](https://www.mind.org.uk/)
+- 
+
 
 ## Communities
 
-List of ND focussed and friendly communities
+List of ND-friendly communities, not necessarily ND focussed
 
 - [Neurodiverse Squad](https://x.com/i/communities/1512494077757075460) on X
-- [TheClaw](https://discord.com/invite/theclaw) by [@whitep4nth3r](https://github.com/whitep4nth3r)
 - [rendezvous with cassidoo](https://discord.gg/rwc) by [Cassidy Williams](https://cassidoo.co)
+- [TheClaw](https://discord.com/invite/theclaw) by [@whitep4nth3r](https://github.com/whitep4nth3r)
+- 
 
 ## Related
 
@@ -49,3 +63,4 @@ List of ND focussed and friendly communities
 - [Awesome Viewer](https://awesome.digitalbunker.dev) - A visualizer for all of the above Awesome lists.
 - [Track Awesome List](https://www.trackawesomelist.com) - View the latest updates of Awesome lists.
 - [Open Source Heroes - Awesome](https://opensource-heroes.com/awesome) - View Awesome lists with extra info like stars, last update, and license.
+- 
